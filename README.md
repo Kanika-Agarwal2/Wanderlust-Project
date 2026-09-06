@@ -13,13 +13,17 @@ Wanderlust is a full-stack, responsive vacation rental web application inspired 
 
 ## 📷 Interface Previews
 
-| **Listings Home Page** | **Property Details & Reviews** |
+| **Listings Home Page** | **Property Details (Show Listing)** |
 | :---: | :---: |
-| ![Home Page](./public/website-Images/homePage.png) | ![Listing Details & Reviews](./public/website-Images/reviews.png) |
+| ![Home Page](./public/website-Images/homePage.png) | ![Listing Details](./public/website-Images/showListing.png) |
 
-| **User Authentication (Login & Signup)** | **Create Listing (Cloudinary Upload)** |
+| **Property Reviews & Ratings** | **Create New Listing (Cloudinary)** |
 | :---: | :---: |
-| ![Login View](./public/website-Images/login.png) | ![Add New Listing](./public/website-Images/newListing.png) |
+| ![Reviews View](./public/website-Images/reviews.png) | ![Add New Listing](./public/website-Images/newListing.png) |
+
+| **User Sign-Up** | **User Login** |
+| :---: | :---: |
+| ![Sign-Up View](./public/website-Images/signUp.png) | ![Login View](./public/website-Images/login.png) |
 
 ---
 
